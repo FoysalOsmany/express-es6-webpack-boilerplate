@@ -1,0 +1,26 @@
+{
+  "name": "express-es6-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Express ES6 Webpack Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoysalOsmany/express-es6-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "Express",
+    "ES6",
+    "Webpack",
+    "Typescript",
+    "NodeJS"
+  ],
+  "author": "Foysal Osmany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FoysalOsmany/express-es6-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/FoysalOsmany/express-es6-webpack-boilerplate#readme"
+}
