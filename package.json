@@ -23,7 +23,14 @@
     "url": "https://github.com/FoysalOsmany/express-es6-webpack-boilerplate/issues"
   },
   "homepage": "https://github.com/FoysalOsmany/express-es6-webpack-boilerplate#readme",
+  "engines": {
+    "node": "6.0.0"
+  },
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.15.1",
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "helmet": "^2.0.0",
+    "http": "0.0.0"
   }
 }
