@@ -34,6 +34,7 @@
     "http": "0.0.0"
   },
   "devDependencies": {
+    "deep-merge": "^1.0.0",
     "gulp": "^3.9.1",
     "nodemon": "^1.9.2",
     "webpack": "^1.13.0",
