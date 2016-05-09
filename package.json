@@ -32,5 +32,8 @@
     "express": "^4.13.4",
     "helmet": "^2.0.0",
     "http": "0.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
